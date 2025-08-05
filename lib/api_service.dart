@@ -1,7 +1,7 @@
 import 'dart:core';
 import 'package:google_generative_ai/google_generative_ai.dart';
 class ApiService {
-  final String apiKey = 'AIzaSyA5U2puTTJBSR0x31BeY_nJFJC-0KRVsYo';
+  final String apiKey = 'Your_api_key';
   ApiService() {
     // Initialize Gemini in the constructor
     // Uncomment the following line if necessary
